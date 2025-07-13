@@ -1,0 +1,1 @@
+npm install discord.js dotenv express mongoose passport passport-discord ejs body-parser express-session connect-mongo node-canvas
